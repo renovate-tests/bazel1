@@ -23,7 +23,7 @@ go_repository(
 git_repository(
     name = "build_bazel_rules_nodejs",
     remote = "https://github.com/bazelbuild/rules_nodejs.git",
-    tag = "0.1.0",
+    tag = "0.26.0",
 )
 
 # this http archive should be updated to a new release
