@@ -1,7 +1,7 @@
 # this commit should be updated to a new commit
 go_repository(
     name = "org_golang_x_crypto",
-    commit = "ccddf3741a0cfcee0a62d34c18c2c5417a3761af",
+    commit = "31a38585487a4b1fd6ff4f8f3db26f1fb296ac82",
     importpath = "golang.org/x/crypto",
 )
 
