@@ -8,7 +8,7 @@ go_repository(
 # this commit should be updated to a versioned tag
 go_repository(
     name = "com_github_pkg_errors",
-    commit = "ffb6e22f01932bf7ac35e0bad9be11f01d1c8685",
+    commit = "05ac58a23b8798a296fa64f7d9c1559904db4b98",  # v0.8.1
     importpath = "github.com/pkg/errors",
 )
 
