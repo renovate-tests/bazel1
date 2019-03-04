@@ -36,7 +36,7 @@ http_archive(
 
 http_archive(
     name="distroless",
-    sha256="f7a6ecfb8174a1dd4713ea3b21621072996ada7e8f1a69e6ae7581be137c6dd6",
-    strip_prefix="distroless-446923c3756ceeaa75888f52fcbdd48bb314fbf8",
-    urls=["https://github.com/GoogleContainerTools/distroless/archive/446923c3756ceeaa75888f52fcbdd48bb314fbf8.tar.gz"]
+    sha256="bca31ebedacbe38a12fbaf2270938533d0e97e9438a17229a73e4a601d06d23a",
+    strip_prefix="distroless-033387ac8853e6cc1cd47df6c346bc53cbc490d8",
+    urls=["https://github.com/GoogleContainerTools/distroless/archive/033387ac8853e6cc1cd47df6c346bc53cbc490d8.tar.gz"]
 )
